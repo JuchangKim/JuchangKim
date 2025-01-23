@@ -68,3 +68,7 @@ Thanks for stopping by, and happy coding!
 
 Created with :heart: by Juchang Kim (JC)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuchangKim)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
