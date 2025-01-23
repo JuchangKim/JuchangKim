@@ -70,4 +70,6 @@ Created with :heart: by Juchang Kim (JC)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuchangKim)
+<br>
+<br>
 ![GitHub Streak](https://streak-stats.demolab.com?user=JuchangKim&theme=vue&mode=weekly)
