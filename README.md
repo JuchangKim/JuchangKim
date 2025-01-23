@@ -5,8 +5,7 @@ Hi there, I’m Juchang Kim (JC) <img src="https://media.giphy.com/media/hvRJCLF
 :mortar_board: Education
 Bachelor of Computer and Information Science (Feb 2023 – Present)
 Auckland University of Technology (AUT), Auckland, New Zealand
-Major in Software Development
-Minor in Network and Cyber Security and Data Science
+
 
 
 :computer: Technical Skills
@@ -28,18 +27,6 @@ Operating Systems: Linux (Ubuntu) environments
 Project Management: Familiar with Agile/Scrum methodologies, certified CAPM
 
 Testing and Debugging: Familiar with unit testing, TDD, and debugging processes
-
-
-:briefcase: Work Experience
-Cashier Assistant (Jan 2023 – Present)
-Costco Wholesale, Westgate, New Zealand
-- Assisted cashiers in processing transactions and maintaining accurate records
-
-Chef (Sep 2018 – Apr 2022)
-Gengy’s, Christchurch, New Zealand
-- Managed food preparation and trained new staff
-Collaborated with other chefs to ensure smooth kitchen operations
-
 
 :trophy: Certifications
 - Certified Associate in Project Management (CAPM), PMI (Feb 2024)
