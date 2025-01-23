@@ -67,7 +67,7 @@ I’m always eager to explore new opportunities, collaborate on projects, or jus
 Thanks for stopping by, and happy coding!
 
 Created with :heart: by Juchang Kim (JC)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=JuchangKim&theme=blue-green&mode=weekly)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuchangKim)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuchangKim)
