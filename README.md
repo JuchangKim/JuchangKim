@@ -69,4 +69,4 @@ Thanks for stopping by, and happy coding!
 Created with :heart: by Juchang Kim (JC)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuchangKim)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuchangKim)
