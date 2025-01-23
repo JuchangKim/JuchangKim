@@ -62,7 +62,7 @@ Implemented MVC pattern, simple unit tests, and a GUI
 
 
 :handshake: Let's Connect!
-I’m always eager to explore new opportunities, collaborate on projects, or just talk tech. Feel free to reach out via LinkedIn or Email.
+I’m always eager to explore new opportunities, collaborate on projects, or just talk tech. Feel free to reach out via LinkedIn(www.linkedin.com/in/juchang-kim).
 
 Thanks for stopping by, and happy coding!
 
