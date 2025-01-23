@@ -68,7 +68,7 @@ Thanks for stopping by, and happy coding!
 
 Created with :heart: by Juchang Kim (JC)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JuchangKim&theme=vue&mode=weekly)](https://git.io/streak-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuchangKim)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuchangKim)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=JuchangKim&theme=vue&mode=weekly)](https://git.io/streak-stats)
