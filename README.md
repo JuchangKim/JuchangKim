@@ -2,9 +2,6 @@ Hi there, I’m Juchang Kim (JC) <img src="https://media.giphy.com/media/hvRJCLF
 
 :wave: About Me
 
-I am a motivated and results-oriented Software Development professional currently studying at Auckland University of Technology (AUT). 
-My goal is to leverage technology, especially in the realms of cloud computing, network security, and data science, to solve real-world problems and deliver impactful solutions.
-
 Phone: 027 628 2027
 Location: Auckland, New Zealand
 
