@@ -2,9 +2,6 @@ Hi there, I’m Juchang Kim (JC) <img src="https://media.giphy.com/media/hvRJCLF
 
 :wave: About Me
 
-Phone: 027 628 2027
-Location: Auckland, New Zealand
-
 :mortar_board: Education
 Bachelor of Computer and Information Science (Feb 2023 – Present)
 Auckland University of Technology (AUT), Auckland, New Zealand
