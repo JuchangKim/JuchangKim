@@ -11,6 +11,7 @@ Auckland University of Technology (AUT), Auckland, New Zealand
 Major in Software Development
 Minor in Network and Cyber Security and Data Science
 
+
 :computer: Technical Skills
 Programming Languages: Proficient in Python, C, and Java (including data structures & algorithms)
 Web Development: React.js (front end) and Node.js (back end)
@@ -31,6 +32,7 @@ Project Management: Familiar with Agile/Scrum methodologies, certified CAPM
 
 Testing and Debugging: Familiar with unit testing, TDD, and debugging processes
 
+
 :briefcase: Work Experience
 Cashier Assistant (Jan 2023 – Present)
 Costco Wholesale, Westgate, New Zealand
@@ -41,6 +43,7 @@ Gengy’s, Christchurch, New Zealand
 - Managed food preparation and trained new staff
 Collaborated with other chefs to ensure smooth kitchen operations
 
+
 :trophy: Certifications
 - Certified Associate in Project Management (CAPM), PMI (Feb 2024)
 
@@ -50,10 +53,12 @@ Collaborated with other chefs to ensure smooth kitchen operations
 
 - Azure Developer Associate (AZ-204), Microsoft Azure (Dec 2024)
 
+
 :star2: Extracurricular Activities
 - AUT Computer Science & Engineering Association Club (Feb 2023 – Present)
 
 - AI Hackathon with She Sharp and Fisher & Paykel Healthcare (Jul 2024)
+
 
 :rocket: Projects
 HireHub - Job Hunting Website
@@ -70,6 +75,7 @@ Poker Game – Playing with Multiple Computer Players
 Developed in Java (NetBeans IDE)
 Utilized JDBC with Embedded Derby
 Implemented MVC pattern, simple unit tests, and a GUI
+
 
 :handshake: Let's Connect!
 I’m always eager to explore new opportunities, collaborate on projects, or just talk tech. Feel free to reach out via LinkedIn or Email.
