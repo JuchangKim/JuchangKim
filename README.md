@@ -45,7 +45,7 @@ NoSQL DBs (MongoDB)
 
 ## :rocket: Projects
 ### HireHub - Job Hunting Website
-Live Demo: HireHub on Azure
+[Live Demo Link](https://hirehub-bbfsh4a5feexh3gt.newzealandnorth-01.azurewebsites.net/)
 
 Front end: React.js
 Back end: Node.js
