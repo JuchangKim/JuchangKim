@@ -45,6 +45,8 @@ NoSQL DBs (MongoDB)
 
 ## :rocket: Projects
 ### HireHub - Job Hunting Website
+[GitHub Repository Link](https://github.com/JuchangKim/HireHubWeb.git)
+
 [Live Demo Link](https://hirehub-bbfsh4a5feexh3gt.newzealandnorth-01.azurewebsites.net/)
 
 Front end: React.js
@@ -58,6 +60,10 @@ Deployed via Azure Web App
 Developed in Java (NetBeans IDE)
 Utilized JDBC with Embedded Derby
 Implemented MVC pattern, simple unit tests, and a GUI
+
+[GitHub Repository Link](https://github.com/JuchangKim/PokerApp.git)
+
+[Click here to download `dist.zip` for Poker Game](https://github.com/JuchangKim/PokerApp/raw/main/Assignment1/dist.zip)
 
 
 ## :handshake: Let's Connect!
