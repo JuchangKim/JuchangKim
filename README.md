@@ -19,13 +19,17 @@ Azure: Certified Azure Developer Associate (AZ-204)
 Relational DBs (Oracle SQL, MySQL)
 NoSQL DBs (MongoDB)
 
-### Networking: Knowledge of network design, switches, and routing (certified CCNA)
+### Networking: 
+Knowledge of network design, switches, and routing (certified CCNA)
 
-### Operating Systems: Linux (Ubuntu) environments
+### Operating Systems: 
+Linux (Ubuntu) environments
 
-### Project Management: Familiar with Agile/Scrum methodologies, certified CAPM
+### Project Management: 
+Familiar with Agile/Scrum methodologies, certified CAPM
 
-### Testing and Debugging: Familiar with unit testing, TDD, and debugging processes
+### Testing and Debugging: 
+Familiar with unit testing, TDD, and debugging processes
 
 ## :trophy: Certifications
 - Certified Associate in Project Management (CAPM), PMI (Feb 2024)
