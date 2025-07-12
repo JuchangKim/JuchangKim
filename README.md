@@ -75,7 +75,15 @@ I’m always eager to explore new opportunities, collaborate on projects, or jus
 
 Thanks for stopping by, and happy coding!
 
-Created with :heart: by Juchang Kim (JC)
+Created by Juchang Kim (JC)
+
+### WakaTime Stats
+
+![WakaTime Chart](https://wakatime.com/share/@J0CKim/9001820-d65f-4dbe-9b61-a1a89182fcaf.svg)
+
+## Coding Activity (WakaTime)
+
+![WakaTime Stats](https://wakatime.com/share/@J0CKim/9001820-d65f-4dbe-9b61-a1a89182fcaf.svg)
 ### ⌛ Weekly Coding Stats
 
 <!--START_SECTION:waka-->
