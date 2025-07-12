@@ -77,6 +77,10 @@ Thanks for stopping by, and happy coding!
 
 Created by Juchang Kim (JC)
 
+
+### ⌛ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
 ### WakaTime Stats
 
 ![WakaTime Chart](https://wakatime.com/share/@J0CKim/9001820-d65f-4dbe-9b61-a1a89182fcaf.svg)
@@ -84,9 +88,6 @@ Created by Juchang Kim (JC)
 ## Coding Activity (WakaTime)
 
 ![WakaTime Stats](https://wakatime.com/share/@J0CKim/9001820-d65f-4dbe-9b61-a1a89182fcaf.svg)
-### ⌛ Weekly Coding Stats
-
-<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuchangKim)
