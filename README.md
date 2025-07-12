@@ -76,7 +76,10 @@ I’m always eager to explore new opportunities, collaborate on projects, or jus
 Thanks for stopping by, and happy coding!
 
 Created with :heart: by Juchang Kim (JC)
+### ⌛ Weekly Coding Stats
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuchangKim)
 <br>
