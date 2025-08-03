@@ -23,7 +23,7 @@ NoSQL DBs (MongoDB)
 Knowledge of network design, switches, and routing (certified CCNA)
 
 ### Operating Systems: 
-Linux (Ubuntu) environments
+Linux (Ubuntu) environments, Windows
 
 ### Project Management: 
 Familiar with Agile/Scrum methodologies, certified CAPM
