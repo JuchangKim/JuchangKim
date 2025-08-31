@@ -78,7 +78,7 @@ Thanks for stopping by, and happy coding!
 Created by Juchang Kim (JC)
 
 
-
+[![wakatime](https://wakatime.com/badge/user/6dde0cf2-3771-48b7-966f-8af3d78cd884/project/d2f2d174-8a5a-4ae1-8728-1bf1b483cc04.svg)](https://wakatime.com/badge/user/6dde0cf2-3771-48b7-966f-8af3d78cd884/project/d2f2d174-8a5a-4ae1-8728-1bf1b483cc04)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuchangKim)
 <br>
