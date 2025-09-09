@@ -77,9 +77,20 @@ Thanks for stopping by, and happy coding!
 
 Created by Juchang Kim (JC)
 
-
+Project - Fiserv Sign in Tool
 [![wakatime](https://wakatime.com/badge/user/6dde0cf2-3771-48b7-966f-8af3d78cd884/project/d2f2d174-8a5a-4ae1-8728-1bf1b483cc04.svg)](https://wakatime.com/badge/user/6dde0cf2-3771-48b7-966f-8af3d78cd884/project/d2f2d174-8a5a-4ae1-8728-1bf1b483cc04)
 
+Subproject - Label Printer
+[![wakatime](https://wakatime.com/badge/user/6dde0cf2-3771-48b7-966f-8af3d78cd884/project/cf9e0d3d-c35e-4a04-a5b5-27a2910aab0e.svg)](https://wakatime.com/badge/user/6dde0cf2-3771-48b7-966f-8af3d78cd884/project/cf9e0d3d-c35e-4a04-a5b5-27a2910aab0e)
+
+Project - Taxi Booking System
+[![wakatime](https://wakatime.com/badge/user/6dde0cf2-3771-48b7-966f-8af3d78cd884/project/6725cd01-578c-4fc1-baa5-3998ffdfd891.svg)](https://wakatime.com/badge/user/6dde0cf2-3771-48b7-966f-8af3d78cd884/project/6725cd01-578c-4fc1-baa5-3998ffdfd891)
+
+
+[![WakaTime](https://wakatime.com/share/@JCKim/7c6b8f23-ef4d-454a-90c7-f9b19da6e338.png)](https://wakatime.com/)
+
+
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuchangKim)
 <br>
 <br>
