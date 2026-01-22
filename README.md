@@ -3,7 +3,7 @@ Hi there, I’m Juchang Kim (JC) <img src="https://media.giphy.com/media/hvRJCLF
 # :wave: About Me
 
 ## :mortar_board: Education
-Bachelor of Computer and Information Science (Feb 2023 – Present)
+Bachelor of Computer and Information Science (Feb 2023 – Dec 2025)
 Auckland University of Technology (AUT), Auckland, New Zealand
 
 
@@ -16,8 +16,8 @@ AWS: Certified AWS Solutions Architect – Associate (SAA-C03)
 Azure: Certified Azure Developer Associate (AZ-204)
 
 ### Database Management:
-Relational DBs (Oracle SQL, MySQL)
-NoSQL DBs (MongoDB)
+Relational DBs (Oracle SQL, MySQL, DerbyDB)
+NoSQL DBs (MongoDB, Firebase)
 
 ### Networking: 
 Knowledge of network design, switches, and routing (certified CCNA)
@@ -29,7 +29,7 @@ Linux (Ubuntu) environments, Windows
 Familiar with Agile/Scrum methodologies, certified CAPM
 
 ### Testing and Debugging: 
-Familiar with unit testing, TDD, and debugging processes
+Familiar with unit testing, TDD, integreation testing, regression testing, API testing, E2E testing, automation testing and debugging processes (Jest, Junit, xUnit, Android testing, UAT, Playwright, Github Actions, Postman)
 
 ## :trophy: Certifications
 - Certified Associate in Project Management (CAPM), PMI (Feb 2024)
@@ -42,7 +42,7 @@ Familiar with unit testing, TDD, and debugging processes
 
 
 ## :star2: Extracurricular Activities
-- AUT Computer Science & Engineering Association Club (Feb 2023 – Present)
+- AUT Computer Science & Engineering Association Club (Feb 2023 – Dec 2025)
 
 - AI Hackathon with She Sharp and Fisher & Paykel Healthcare (Jul 2024)
 
