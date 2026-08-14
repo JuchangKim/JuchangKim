@@ -29,7 +29,7 @@ Linux (Ubuntu) environments, Windows
 Familiar with Agile/Scrum methodologies, certified CAPM
 
 ### Testing and Debugging: 
-Familiar with unit testing, TDD, integreation testing, regression testing, API testing, E2E testing, automation testing and debugging processes (Jest, Junit, xUnit, Android testing, UAT, Playwright, Github Actions, Postman)
+Familiar with unit testing, TDD, integration testing, regression testing, API testing, E2E testing, automation testing and debugging processes (Jest, Junit, xUnit, Android testing, UAT, Playwright, Github Actions, Postman)
 
 ## :trophy: Certifications
 - Certified Associate in Project Management (CAPM), PMI (Feb 2024)
@@ -37,8 +37,6 @@ Familiar with unit testing, TDD, integreation testing, regression testing, API t
 - Cisco Certified Network Associate (CCNA), Cisco (Nov 2024)
 
 - AWS Solutions Architect – Associate (SAA-C03), AWS (Dec 2024)
-
-- Azure Developer Associate (AZ-204), Microsoft Azure (Dec 2024)
 
 
 ## :star2: Extracurricular Activities
@@ -48,22 +46,82 @@ Familiar with unit testing, TDD, integreation testing, regression testing, API t
 
 
 ## :rocket: Projects
+
+### Taxi Booking System (Full Stack + AI Chatbot)
+[Live Demo Link](http://54.79.89.195)  
+[GitHub Repository Link](https://github.com/JuchangKim/taxi-booking-system)
+
+#### A complete taxi booking management system with:
+
+- Customer booking form
+
+- Admin booking assignment panel
+
+- CSV export of booking history
+
+- FastAPI chatbot integrated with Ollama (Llama3.2:3b)
+
+- Docker Compose multi-service architecture
+
+- MySQL, PHP backend
+
+- Automatic CSV refresh for chatbot
+
+- Deployed on AWS Lightsail
+
+#### Technologies Used
+
+- PHP (Apache)
+
+- HTML, CSS, JavaScript
+
+- MySQL
+
+- FastAPI (Python)
+
+- Ollama AI model
+
+- Docker & Docker Compose
+
+- AWS Lightsail hosting
+
+#### Features
+
+- Book a taxi
+
+- Admin CRUD functions, search and assign
+
+- CSV export
+
+- Chatbot answers booking questions
+
+- Real-time booking history
+
+- Fully containerized deployment
+
 ### HireHub - Job Hunting Website
 [GitHub Repository Link](https://github.com/JuchangKim/HireHubWeb.git)
 
 [Live Demo Link](https://hirehub-bbfsh4a5feexh3gt.newzealandnorth-01.azurewebsites.net/)
 
-Front end: React.js
-Back end: Node.js
-Database: MongoDB
-REST API for CRUD functionalities
-Authentication with JWT
-Deployed via Azure Web App
+- Front end: React.js
+
+- Back end: Node.js
+
+- Database: MongoDB
+
+- REST API for CRUD functionalities
+
+- Authentication with JWT
+
+- Deployed via Azure Web App
 
 ### Poker Game – Playing with Multiple Computer Players
-Developed in Java (NetBeans IDE)
-Utilized JDBC with Embedded Derby
-Implemented MVC pattern, simple unit tests, and a GUI
+- Developed in Java (NetBeans IDE)
+
+- Utilized JDBC with Embedded Derby
+
+- Implemented MVC pattern, simple unit tests, and a GUI
 
 [GitHub Repository Link](https://github.com/JuchangKim/PokerApp.git)
 
