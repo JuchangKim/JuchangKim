@@ -99,6 +99,99 @@ Familiar with unit testing, TDD, integration testing, regression testing, API te
 
 - Fully containerized deployment
 
+---
+
+### Fiserv Sign In (Typescript, React + C#, .NET + Android + Firebase + Label Printer - Hardware)
+
+#### Executive Summary
+Fiserv Sign‑In Tool is a modern visitor **sign‑in / sign‑out** solution replacing an older system at Fiserv Auckland. It provides **tablet‑based check‑in**, **admin web dashboard**, **audit logging**, and **label printing**, built with **Android (Kotlin)**, **React + TypeScript**, **.NET 8**, and **Firebase Firestore**. The product improves usability, accessibility, and security while enabling real‑time visibility for reception and administrators.
+
+
+
+#### Objectives & Goals
+- **Deliver a modern, user‑friendly sign‑in tool** that surpasses the legacy system.
+- **Enhance security & compliance** (encrypted transport, mutable audit logs).
+- **Integrate smoothly** with internal identity/access control (card/QR support).
+- **Improve UX & reduce waiting times** through kiosk flows and admin tools.
+- **Increase operational efficiency** with automation (printing, exports, filtering).
+
+
+
+#### Scope — High‑Level Requirements
+**Functional**
+- Realtime **sign‑in/out** (tablet & dashboard)
+- **RFID / Card / QR** assisted sign‑in/out with duplicate/invalid protection
+- **Badge label printing** (Zebra ZD410 over BT/BLE)
+- **Pre‑registration** & on‑site check‑in (tablet)
+- **Notifications** (host aware — optional extension)
+- **Audit history** (mutable events + who/when/what)
+- **Search, filters, CSV export** (attendance, events, changes)
+- **Admin profile editing** (with validation & toast feedback)
+
+**Non‑Functional**
+- Encrypted transport (**HTTPS**) across all layers
+- Reliable realtime updates (**Firestore onSnapshot**)
+- Responsive UI (desktop & tablet)
+
+  
+#### Architecture & Tech Stack
+```
+[Label Printer(Zebra ZD410)] <----[Android Tablet (Kotlin + Compose)]
+              ▲                       │ (REST / HTTPS)
+              |                       |
+              |                       |
+        [ASP.NET Core 8 API ]         |
+            ▲  |          │           ▼      
+            |  |          ▼                                   
+            |  |         [Firebase Admin SDK (Firestore)] 
+            |  |                 ▲
+            |  ▼                 │
+[React + TypeScript (Vite) Admin Dashboard]
+```
+
+**Technologies**
+- **Frontend:** React, TypeScript, Vite, RTL/Vitest
+- **Backend:** ASP.NET Core (.NET 8), SignalR, Swagger, HealthChecks, xUnit
+- **Realtime DB:** Firebase **Firestore**
+- **Mobile:** Android (Kotlin, Jetpack Compose)
+- **Printing:** Zebra ZD410 via BT/BLE (backend REST)
+- **CI/CD:** GitHub Actions (frontend, backend, Android)
+
+#### Final Feature Set (Sprint 1 → 8)
+- Manual visitor **Sign‑In/Out** (tablet + dashboard) with **confirmation**
+- Robust **validation** (empty/format/date/time; sign‑in < sign‑out)
+- **Realtime dashboard** (Firestore; no refresh)
+- **Audit history** (mutable events: sign‑in/out, label prints)
+- **Search & Filters** (type, name, date range), **CSV export**
+- **Visitor type classification** (Contractor/Staff/Visitor/Other)
+- **Admin profile editing** with toast feedback; **Delete** with confirm
+- **QR sign‑out**, **Card access** (Card IDs) with duplicate prevention
+- **Label printing** (connect/status/test/disconnect; reprint support)
+- **Today’s Visitors** widget (Active vs Signed‑Out)
+- **Same‑name sign‑out disambiguation** (phone fallback)
+- **Bulk edit** in History with **audit trail**
+- **Secure admin login** (multi‑admin)
+- **HTTPS/SSL** end‑to‑end
+
+
+
+#### Security & Compliance
+- All traffic over **HTTPS** (local dev uses self‑signed certs).
+- Firestore access via server **Admin SDK**; client reads follow security rules.
+- **mutable audit** entries for compliance / forensics.
+- Consistent **UTC** timestamps.
+
+#### Testing & Quality Gates
+- **Frontend:** Vitest + RTL (regression suite)
+- **Backend:** xUnit + Coverlet
+- **Android:** JUnit + Compose UI tests
+- **E2E:** Playwright smoke
+- **CI/CD:** GitHub Actions (builds, tests, artifacts)
+
+Sprint‑8 metrics: Web **353/353** passing; Backend all passing (~36% coverage); Android all passing; E2E smoke green.
+
+---
+
 ### HireHub - Job Hunting Website
 [GitHub Repository Link](https://github.com/JuchangKim/HireHubWeb.git)
 
